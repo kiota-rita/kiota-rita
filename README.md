@@ -1,8 +1,5 @@
 ### Hello 👋
 
-<!--
-**kiota-rita/kiota-rita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/sailor.gif">
 
 
