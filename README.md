@@ -3,12 +3,12 @@
 <!--
 **kiota-rita/kiota-rita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="right" width="400px" src="https://github.com/LB-Okami/LB-Okami/blob/main/sasha1.gif">
+<img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/sailor.gif">
 
 
 # Hello, I'm Rita! <img src="https://github.com/LB-Okami/LB-Okami/blob/main/wolf.svg" width="40px">
 - 💻 Marketing and IT Graduated
-- 🚀 Bootcamp Generation Brazil - Web Full-Stack Developer 
+- 🚀 Generation Brazil Bootcamp - Web Full-Stack Developer 
 - <a href="https://www.linkedin.com/in/kiotarita/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  # Technologies 💻
