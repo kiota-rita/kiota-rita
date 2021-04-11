@@ -2,9 +2,9 @@
 
 <img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/sailor.gif">
 
+- I'm passionate about solving problems and learning. I'm always open to new challenges ✨
 
-
-- 💻 Marketing and IT Graduated
+- 🎓 Marketing and IT Graduated
 - 🚀 Generation Brazil Bootcamp - Web Full-Stack Developer 
 - <a href="https://www.linkedin.com/in/kiotarita/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
