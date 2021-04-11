@@ -1,4 +1,4 @@
-# Hello, i'm Rita 😊
+# Hello, i'm Rita Kiota😊
 
 <img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/sailor.gif">
 
