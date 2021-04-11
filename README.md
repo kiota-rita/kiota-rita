@@ -1,9 +1,9 @@
-### Hello 👋
+# Hello, i'm Rita 😊
 
 <img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/sailor.gif">
 
 
-# Hello, I'm Rita! 
+
 - 💻 Marketing and IT Graduated
 - 🚀 Generation Brazil Bootcamp - Web Full-Stack Developer 
 - <a href="https://www.linkedin.com/in/kiotarita/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,4 +19,4 @@
  
  
  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiota-rita&layout=compact&theme=vision-material-palenight" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=kiota-rita&show_icons=true,css&layout=compact&theme=vision-fmaterial-palenight" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=kiota-rita&show_icons=true,css&layout=compact&theme=vision-material-palenight" />
