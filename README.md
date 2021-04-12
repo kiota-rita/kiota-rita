@@ -5,7 +5,7 @@
 ## I'm passionate about solving problems and learning new things✨
 
 - 🎓 Marketing and IT Graduated
-- 🚀 Generation Brazil Bootcamp - Full-Stack Developer 
+- 🚀 Generation Brazil Bootcamp | Full-Stack Developer 
 - <a href="https://www.linkedin.com/in/kiotarita/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  ## Technologies 💻
