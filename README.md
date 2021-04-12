@@ -2,7 +2,7 @@
 
 <img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/sailor.gif">
 
-## I'm passionate about solving problems and learning ✨
+## I'm passionate about solving problems and learning new things✨
 
 - 🎓 Marketing and IT Graduated
 - 🚀 Generation Brazil Bootcamp - Full-Stack Developer 
