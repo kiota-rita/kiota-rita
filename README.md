@@ -6,6 +6,7 @@
 
 - 🎓 Marketing and IT Graduated
 - 🚀 Generation Brazil Bootcamp | Full-Stack Developer 
+- 📌 Based in São Paulo - Brazil
 - <a href="https://www.linkedin.com/in/kiotarita/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  ## Technologies 💻
