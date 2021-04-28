@@ -1,4 +1,4 @@
-# Hello, i'm Rita Kiota😊
+# Hello, i'm Rita Kiota
 
 <img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/shinobu3.gif">
 
@@ -7,7 +7,10 @@
 - 🎓 Marketing and IT Graduated
 - 🚀 Generation Brazil Bootcamp | Web full-Stack Developer 
 - 📌 Based in São Paulo - Brazil
-- <a href="https://www.linkedin.com/in/kiotarita/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
+ ## Get in touch
+<a href="https://www.linkedin.com/in/kiotarita/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
  ## Technologies I'm learning💻
 ![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
