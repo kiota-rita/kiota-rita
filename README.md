@@ -4,8 +4,9 @@
 
 ## I'm passionate about learning new things✨
 
-- 🎓 Marketing and IT Graduated
+- 💙 Software Developer at RD Station
 - 🚀 Generation Brazil Bootcamp | Web full-Stack Developer 
+- 🎓 Marketing and IT Graduated
 - 📌 Based in São Paulo - Brazil
 
 
