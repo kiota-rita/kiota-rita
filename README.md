@@ -1,6 +1,6 @@
 # Hello, i'm Rita Kiota
 
-<img align="right" width="400px" src="https://github.com/kiota-rita/kiota-rita/blob/main/shinobu3.gif">
+<img align="right" width="300px" src="https://github.com/kiota-rita/kiota-rita/blob/main/shinobu3.gif">
 
 ## I'm passionate about learning new things✨
 
