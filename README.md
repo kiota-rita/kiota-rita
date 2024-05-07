@@ -2,7 +2,7 @@
 
 <img align="right" width="300px" src="https://github.com/kiota-rita/kiota-rita/blob/main/shinobu3.gif">
 
-## I'm passionate about learning new things✨
+### I'm passionate about learning new things✨
 
 - 💙 Software Developer at RD Station
 - 🚀 Generation Brazil Bootcamp | Web full-Stack Developer 
