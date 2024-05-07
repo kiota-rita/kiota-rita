@@ -7,7 +7,7 @@
 - 💙 Software Developer at RD Station
 - 🚀 Generation Brazil Bootcamp | Web full-Stack Developer 
 - 🎓 Marketing and IT Graduated
-- 📌 Based in São Paulo - Brazil
+- 📌 Based in Florianópolis - Brazil
 
 
  ## Get in touch
