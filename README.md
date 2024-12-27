@@ -1,4 +1,4 @@
-# Hello, i'm Rita Kiota
+# Hello, I'm Rita Kiota
 
 <img align="right" width="300px" src="https://github.com/kiota-rita/kiota-rita/blob/main/shinobu3.gif">
 
